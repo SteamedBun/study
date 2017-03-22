@@ -1,0 +1,1 @@
+tensorboad --logdir=path
